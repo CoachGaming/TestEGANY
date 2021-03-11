@@ -1,0 +1,113 @@
+@media only screen and (max-width: 740px) {
+    body {
+        overflow-x: hidden;
+        z-index: 10;
+    }
+    .nav-pc {
+        display: none;
+    }
+    .nav-mobile {
+        display: block;
+        text-align: center;
+    }
+    #menu {
+        border: 1px solid #000;
+        border-radius: 10px;
+    }
+    #icon {
+        text-align: center;
+        margin-top: 13px;
+        width: 30px;
+        height: 30px;
+    }
+    .slide-img {
+        margin-top: -150px;
+    }
+    #img-container {
+        top: 531px;
+        left: 0px;
+    }
+    #img2 {
+        top: 320px;
+        left: 65px;
+    }
+    #img3 {
+        display: none;
+    }
+    #img3-mobile {
+        display: block;
+        position: absolute;
+        top: 320px;
+        left: 65px;
+    }
+    #text1 {
+        display: none;
+    }
+    #text1-mobile {
+        display: block;
+        font-weight: bold;
+        font-size: 24px;
+        position: absolute;
+        top: 1020px;
+        left: 25px;
+    }
+    #text2 {
+        display: none;
+    }
+    #text2-mobile {
+        display: block;
+        font-size: 16px;
+        position: absolute;
+        top: 1140px;
+        left: 25px;
+    }
+    #text-body {
+        display: none;
+    }
+    #textt {
+        display: none;
+    }
+    #tape {
+        display: none;
+    }
+    #img_body svg {
+        width: 300px;
+        height: 300px;
+    }
+    #img_body {
+        top: 258px;
+        left: 37px;
+    }
+    #text-body-mobile {
+        display: block;
+        font-weight: bold;
+        font-size: 24px;
+        position: absolute;
+        top: 2000px;
+    }
+    #textt-mobile {
+        display: block;
+        position: absolute;
+        top: 2040px;
+    }
+    .bg_text {
+        top: 727px;
+        width: 342px;
+        height: 460px;
+    }
+    #btn_more .btn {
+        width: 90%;
+    }
+    .text_body {
+        margin-left: 20px;
+    }
+    .product {
+        display: none;
+    }
+    .product1 {
+        display: none;
+    }
+    .product2 {
+        display: none;
+    }
+}
