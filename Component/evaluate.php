@@ -19,3 +19,9 @@
         </div>
     </div>
 </div>
+
+<!--   Mobile -->
+
+<div id="big-mobile">Đánh giá của các nàng</div>
+<div id="small-mobile">Mấy đánh giá này là lấy từ facebook qua nè, không có tự bịa ra đâu nha. Hông tin
+    lên facebook mà xem.</div>

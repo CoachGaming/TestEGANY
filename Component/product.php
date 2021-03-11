@@ -6,7 +6,7 @@
         <div id="title-body">Đống này đang giảm giá nên rất "nóng”. Bạn còn chờ gì nữa mà "phỏng tay” ngay đi</div>
     </div>
 
-    <div class="row" id="btn-add">
+    <div class="row btn-add">
         <div class="col-3">
             <div class="pro">
                 <div class="image"><img
@@ -78,7 +78,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row btn-add">
         <div class="col-3">
             <div class="pro">
                 <div class="image"><img
@@ -147,7 +147,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row btn-add">
         <div class="col-3">
             <div class="pro">
                 <div class="image"><img

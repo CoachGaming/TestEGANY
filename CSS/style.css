@@ -210,6 +210,14 @@ body {
     font-size: 20px;
 }
 
+#big-mobile {
+    display: none;
+}
+
+#small-mobile {
+    display: none;
+}
+
 
 /*-----footer----*/
 
@@ -242,6 +250,10 @@ body {
 #end {
     background-color: #fff;
     text-align: center;
+}
+
+#end-mobile {
+    display: none;
 }
 
 .all {
